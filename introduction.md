@@ -1,8 +1,8 @@
 # Introduction
 
-Smart people have been thinking on how to create IT architectures as long as there has been computers. Ideas come and go, however creating a good architectures can still be complex and time consuming. Especially when you try to invent the wheel for yourself. With this interactive playbook you can create your IT architecture better and faster. The focus of this architecture playbook is in on:
+Smart people have been thinking on how to create IT architectures as long as there has been computers. Ideas come and go, however creating good architecture can still be complex and time consuming, especially when you try to invent the wheel for yourself. With this interactive playbook you can create your IT architecture better and faster. The focus of this architecture playbook is in on:
 
-1.    Knowledge reuse. Why reinvent the wheel again? It is far and more fun to create a better wheel for your organisation or IT project instead! Focus on the hard complex context specific issues. Use good open tools and knowledge for the easy 80%!
+1.    Knowledge reuse. Why reinvent the wheel again? It is far more fun to create a better wheel for your organisation or IT project instead! Focus on the hard complex context specific issues. Use good open tools and knowledge for the easy 80%!
 2.    Easier creation of architecture documents and deliverables. This playbook has an extensive list of all(*) open tools available for creating your IT architecture or design. Using these open tools will speed up the process of creating your architecture deliverables and reduce your risks.
 3.   Quality improvement. By making use of content parts provided for various architecture deliverables you will lower your business risks. Complex business IT projects will fail. Now and in future. But if you make use of proven methods and tools developed from decades of IT architecture scientific research you will lower the risk for your project. Architecture will help to make your projects more successful in terms of costs, speed and profitability.
 
@@ -12,7 +12,7 @@ This architecture playbook is divided in the commonly used architecture sections
 
 *    Business
 *    Data
-*    Applications and of course
+*    Application and of course
 *    Technology Infrastructure (TI)
 
 This playbook is primarily created for on-line usage. But also ePUB and PDF versions are available.
@@ -24,9 +24,9 @@ Creating a business IT architecture has many benefits. However creating a comple
 *    Difficult
 *    Time consuming
 
-Of course many tools have been developed the last 30 years to make creating architecture (documents) easier. However many tools force you into a very tight harness without the needed flexibility. Complex problems need flexible solutions and tools should not slow you down in creating sketches, documents and typical architecture deliverables. A one size fits tool for solving complex business IT problems does not exist. And since creating good architectures is knowledge intensive work that delivers real value for business you should be aware of vendor lock-ins and using methods and tools that do not share knowledge sharing. Open Source tools and open access documentation offer a default head start for reuse and improvement of knowledge work in IT architecture.
+Of course many tools have been developed the last 30 years to make creating architecture (documents) easier. However many tools force you into a very tight harness without the needed flexibility. Complex problems need flexible solutions and tools should not slow you down in creating sketches, documents and typical architecture deliverables. A one size fits tool for solving complex business IT problems does not exist. As creating good architectures is knowledge intensive work that delivers real value for business, you should be aware of vendor lock-ins and using methods and tools that do not enable knowledge sharing. Open Source tools and open access documentation offer a default head start for reuse and improvement of knowledge work in IT architecture.
 
-You can buy and read many many books on how to do architecture well. All books claim a magic method and promise ultimate success when followed. We love books and reading methods. E.g. TOGAF.  However this playbook is different. This architecture playbook is not about describing how you should create your architecture. You are free to use every method you want. This architecture playbook is all about giving you direct usable content and tools that you can use and reuse for your architecture challenge.
+You can buy and read many many books on how to do architecture well. All books claim a magic method and promise ultimate success when followed. We love books and reading methods. E.g. TOGAF.  However this playbook is different. This architecture playbook is not about describing how you should create your architecture. You are free to use any method you want. This architecture playbook is all about giving you direct usable content and tools that you can use and reuse for your architecture challenge.
 
 So this playbook brings you ultimate freedom and flexibility. You can export the results from certain tools in any desired format. In this way you can still use your architecture enterprise tool(s) that you already have invested deeply in. So use the outcome of tools within this playbook in combination with the enterprise architecture tool that are mandatory within your organisation.
 
